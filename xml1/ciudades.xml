@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <ciudad>
+        <nombre>Manila</nombre>
+        <pais>Filipinas</pais>
+        <continente>Asia</continente>
+        <idioma lengua="Inglés"/>
+    </ciudad>
+
+    <ciudad>
+        <nombre>Kiev</nombre>
+        <pais>Ucrania</pais>
+        <continente>Europa</continente>
+        <idioma lengua="Ucraniano"/>
+    </ciudad>
+
+    <ciudad>
+        <nombre>La Habana</nombre>
+        <pais>Cuba</pais>
+        <continente>América</continente>
+        <idioma lengua="Español"/>
+    </ciudad>
+
+    <ciudad>
+        <nombre>El Cairo</nombre>
+        <pais>Egipto</pais>
+        <continente>África</continente>
+        <idioma lengua="Árabe"/>
+    </ciudad>
+</ciudades>
